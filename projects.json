@@ -16,6 +16,14 @@
         "status": 0
     },
     {
+        "title": "BomberMan",
+        "folder": "BomermanWebGL",
+        "author": "Jakob Deubler",
+        "year": "2019_WS",
+	    "info": "Works",
+        "status": 1
+    },
+    {
         "title": "JumpNRun",
         "folder": "JumpNRun",
         "author": "Michael Wagner",
