@@ -15,6 +15,15 @@
 	    "info": "works in Edge",
         "status": 0
     },
+	{
+        "title": "Bomberman",
+        "folder": "BombermanWebGL",
+        "author": "Jakob Deubler",
+        "year": "2019_WS",
+	    "info": "works",
+        "status": 1
+    },
+
     {
         "title": "JumpNRun",
         "folder": "JumpNRun",
